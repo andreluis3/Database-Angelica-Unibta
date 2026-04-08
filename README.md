@@ -24,9 +24,9 @@ Além disso, o projeto inclui:
 
 O diagrama abaixo representa a estrutura lógica do banco de dados.
 
-![Diagrama ER](modelagem1.jpeg)
+![Diagrama ER](modelagem/modelagem1.jpeg)
 
-![Diagrama ER](modelagem2.jpeg)
+![Diagrama ER](modelagem/modelagem2.jpeg)
 
 ### Relacionamentos
 
