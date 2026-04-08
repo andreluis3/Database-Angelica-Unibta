@@ -1,0 +1,19 @@
+{
+    "sqltools.useNodeRuntime": true,
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Banco_Atividade",
+            "database": "ecommerce.db",
+            "group": "SQLite"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "group": "SQLite",
+            "name": "Atividade da Unibta Banco de Dados",
+            "database": "ecommerce_atividade.db"
+        }
+    ]
+}

@@ -24,7 +24,9 @@ Além disso, o projeto inclui:
 
 O diagrama abaixo representa a estrutura lógica do banco de dados.
 
-![Diagrama ER](modelagem%202.jpeg)
+![Diagrama ER](modelagem1.jpeg)
+
+![Diagrama ER](modelagem2.jpeg)
 
 ### Relacionamentos
 
@@ -178,7 +180,6 @@ FLUSH PRIVILEGES;
 - Kayky Almeida de Souza 
 - Rafael Reis Alves 
 - Thainá Almeida Lopes 
-
 
 
 -> Projeto desenvolvido para a disciplina de Banco de Dados.

@@ -1,7 +1,6 @@
--- PROCEDURES
 USE ecommerce_db;
 DELIMITER //
--- Procedure 1: Cadastrar novo usuário de forma segura
+--Procedure 1: Cadastrar novo usuário de forma segura
 CREATE PROCEDURE sp_cadastrar_usuario(
     IN p_nome VARCHAR(255),
     IN p_endereco VARCHAR(255),
